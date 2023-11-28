@@ -8,7 +8,7 @@ Last update: 2023-06-25
 
 At HumanForest Limited ("**HumanForest**", "**we**", "**us**", "**our**") we take our obligations in respect of data privacy seriously and we recognise that it is important for you to understand how we make use of personal data.
 
-Please read this privacy policy carefully as it contains important information about how we use personal data that you provide to us or we collect from you/third parties when operating our business, for example, when you visit the HumanForest [website](https://parcel.humanforest.co.uk/new-booking) and when you use our services via the Site.
+Please read this privacy policy carefully as it contains important information about how we use personal data that you provide to us or we collect from you/third parties when operating our business, for example, when you visit the HumanForest [website](https://www.humanforest.co.uk/) and when you use our services via the [Site](https://parcel.humanforest.co.uk/new-booking).
 
 This privacy policy explains how we use personal data about visitors to our Site including customers and potential customers, about order recipients, about our riders, about individuals that get in contact with us, our suppliers, social media users, agency partners, affiliates (e.g. influencers), press contacts and those individuals whose personal data we otherwise process in the course of our business. This privacy policy also covers data processing related to job applications and our recruitment activities.
 
@@ -94,7 +94,7 @@ If you are a job applicant and want more detail about how we process your person
 
 ### Personal data we collect or generate about you
 
-When you visit our Site or get in touch with us, we may collect, generate, store and use certain personal data about you. In some cases we will use cookies to do this, for further information about the cookies we use and how to opt out of such cookies please see our cookie policy.
+When you visit our Site or get in touch with us, we may collect, generate, store and use certain personal data about you. In some cases we will use cookies to do this, for further information about the cookies we use and how to opt out of such cookies please see our [Cookie Policy](/cookie-policy).
 
 This personal data may include:
 
